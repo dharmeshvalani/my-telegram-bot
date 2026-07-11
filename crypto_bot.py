@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 
-TOKEN = "7732549589:AAGNdhJtverkwj0fRSTFvcJpGo8oxXdhV-k"
+TOKEN = "7732549589:l-k"
 
  # <-- Replace with your bot token
 
